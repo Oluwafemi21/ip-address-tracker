@@ -8,11 +8,11 @@
 } */
 
 header {
-    @apply bg-header md:h-1/3 h-80 text-center md:text-left py-5;
+    @apply bg-header md:h-1/3 h-80 text-center md:text-left py-8;
 }
 
 header h1 {
-    @apply text-2xl text-white text-center pb-5 relative;
+    @apply text-2xl font-medium text-white text-center pb-5 relative;
 }
 
 form {
